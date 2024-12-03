@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Desktop\\advent of code 2024\\day2 task1\\day2 task1\\",
+  "WorkspaceRootPath": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Desktop\\advent of code 2024\\advent_of_code_2024\\day2 task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CAB85D8-2BD3-4ECE-A06B-47FC2DD0295C}|day2 task1\\day2 task1.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\desktop\\advent of code 2024\\day2 task1\\day2 task1\\day2 task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CAB85D8-2BD3-4ECE-A06B-47FC2DD0295C}|day2 task1\\day2 task1.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\desktop\\advent of code 2024\\advent_of_code_2024\\day2 task1\\day2 task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CAB85D8-2BD3-4ECE-A06B-47FC2DD0295C}|day2 task1\\day2 task1.csproj|solutionrelative:day2 task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Desktop\\advent of code 2024\\day2 task1\\day2 task1\\day2 task1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Desktop\\advent of code 2024\\advent_of_code_2024\\day2 task1\\day2 task1\\Program.cs",
               "RelativeDocumentMoniker": "day2 task1\\Program.cs",
-              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Desktop\\advent of code 2024\\day2 task1\\day2 task1\\day2 task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\Desktop\\advent of code 2024\\advent_of_code_2024\\day2 task1\\day2 task1\\Program.cs",
               "RelativeToolTip": "day2 task1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T09:29:32.492Z",
               "EditorCaption": ""
