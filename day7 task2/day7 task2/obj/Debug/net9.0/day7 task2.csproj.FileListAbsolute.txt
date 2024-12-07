@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\bin\Debug\net9.0\day7 task2.exe
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\bin\Debug\net9.0\day7 task2.deps.json
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\bin\Debug\net9.0\day7 task2.runtimeconfig.json
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\bin\Debug\net9.0\day7 task2.dll
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\bin\Debug\net9.0\day7 task2.pdb
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\day7 task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\day7 task2.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\day7 task2.AssemblyInfo.cs
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\day7 task2.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\day7 task2.sourcelink.json
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\day7 task2.dll
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\refint\day7 task2.dll
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\day7 task2.pdb
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\day7 task2.genruntimeconfig.cache
+C:\Users\Felhasználó\Desktop\advent of code 2024\advent_of_code_2024\day7 task2\day7 task2\obj\Debug\net9.0\ref\day7 task2.dll
